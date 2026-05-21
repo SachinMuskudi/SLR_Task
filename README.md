@@ -247,7 +247,7 @@ Runs the Flask development server locally.
 <div align="left">
 
 <pre>
-git clone https://github.com/your-username/SLR_Task.git
+git clone https://github.com/SachinMuskudi/SLR_Task.git
 </pre>
 
 </div>
